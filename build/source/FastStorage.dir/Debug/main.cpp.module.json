@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "FastStorage.dir\\Debug\\main.obj",
+            "outputs": [
+                "D:\\Programming Projects\\CPP Projects\\FastStorage\\build\\source\\FastStorage.dir\\Debug\\vc143.pdb",
+                "FastStorage.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}
