@@ -1,6 +1,0 @@
-# ninja log v6
-1750	2024	7507895544481312	FastStorage.exe	35b4205ce0e8d534
-6	1748	7507895527041486	CMakeFiles/FastStorage.dir/main.cpp.obj	7371114be57446ca
-2	317	7507965804907985	build.ninja	bef3e432fcfe1857
-85	996	7507957157624069	source/CMakeFiles/FastStorage.dir/main.cpp.obj	d84cd8d79b3cb72f
-997	1921	7507957166733574	source/FastStorage.exe	a11124504df11c0e
