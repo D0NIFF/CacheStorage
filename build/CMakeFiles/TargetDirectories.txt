@@ -1,3 +1,0 @@
-D:/Programming Projects/CPP Projects/FastStorage/build/CMakeFiles/ALL_BUILD.dir
-D:/Programming Projects/CPP Projects/FastStorage/build/CMakeFiles/ZERO_CHECK.dir
-D:/Programming Projects/CPP Projects/FastStorage/build/source/CMakeFiles/FastStorage.dir
